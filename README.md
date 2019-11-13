@@ -1,5 +1,5 @@
-HC-06 serial bluetooth setup tool
-
+# HC-06 serial bluetooth setup tool
+```
 usage: hc_setup.py [-h] [-r RATE] [-p {N,O,E}] [--set-rate SET_RATE]
                    [--set-pin SET_PIN] [--set-name SET_NAME]
                    [--set-parity {N,O,E}] [-v]
@@ -29,3 +29,4 @@ Linux platforms:
 
 Windows platforms:
   $ python hc_setup.py COM1 --set-rate 115200 --set-pin 1234 --set-name BTS00 --set-parity N
+```
