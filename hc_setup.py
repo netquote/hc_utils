@@ -4,7 +4,7 @@
 # This software is provided under the terms of the GNU General Public License V2.
 
 # hc_setup.py
-#   V0.1 First release 13-11-2019
+#   13-11-2019 First release V0.1
 
 import argparse
 import serial
